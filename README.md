@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kmpawar93
 - 👀 I’m interested in mobile apps development, AI and ML
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently working in Java
 - 💞️ I’m looking to collaborate on mobile apps development
 - 📫 How to reach me drop message
 
